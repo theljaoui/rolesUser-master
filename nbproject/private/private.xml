@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/rolesUser-master/.env.example</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/composer.json</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/attach.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/detach_permission.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/detach.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/form.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/app/Permission.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/database/migrations/2017_07_07_161244_add_roles_users_table.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/.env</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/permissions/create.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/app/Http/routes.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/permissions/form.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/app/Role.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/create.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/index.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/permissions/index.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/permissions/show.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/app/Http/Requests/ValidateRoleRequest.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/app/Http/Controllers/PermissionsController.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/app/Http/Controllers/RolesController.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/bootstrap/cache/compiled.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/app/User.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/config/app.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/permissions/edit.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/app/Http/Requests/ValidatePermissionRequest.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/show.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/default.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/attach_permission.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/resources/views/roles/edit.blade.php</file>
+            <file>file:/C:/wamp64/www/rolesUser-master/storage/logs/laravel.log</file>
+        </group>
+    </open-files>
+</project-private>
